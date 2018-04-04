@@ -2,7 +2,7 @@ import jenkins.model.*
 
 def GITURL = 'https://github.com/glosserc/abaprestapi.git'
 def BRANCH = 'master'
-def PIPELINE_GITURL = 'https://github.com/pacroy/abap-ci-postman.git'
+def PIPELINE_GITURL = 'https://github.com/glosserc/abap-ci-postman.git'
 def PACKAGE = '''Z_ABAP_REST_API'''
 def COVERAGE = 80
 def VARIANT = "DEFAULT"
